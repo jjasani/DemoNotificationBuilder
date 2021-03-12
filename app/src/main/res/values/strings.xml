@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">RKU Workshop</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="welcome_to_workshop">Welcome to Workshop</string>
+    <string name="login_form">Login Form</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="btnLogin">Login</string>
+    <string name="not_a_member_get_register">Not a Member? Get Register.</string>
+    <string name="registration_form">Registration Form</string>
+    <string name="btnRegistration">Register User</string>
+    <string name="btnAddNotice">Save Notice</string>
+    <string name="enter_department">Enter Department</string>
+    <string name="enter_message">Enter Message</string>
+    <string name="enter_title">Enter Title</string>
+</resources>
